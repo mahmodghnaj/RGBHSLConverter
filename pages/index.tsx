@@ -49,7 +49,7 @@ export default function Home() {
             }}
             className=" max-w-md w-full mb-4 h-20 flex items-center justify-center text-white font-bold text-xl"
           >
-            HSA ({HSLvalue.h} , {HSLvalue.s}% , {HSLvalue.l}% , {HSLvalue.a})
+            HSL ({HSLvalue.h} , {HSLvalue.s}% , {HSLvalue.l}% , {HSLvalue.a})
           </div>
         </div>
         <div className="flex">
